@@ -1,0 +1,6 @@
+{
+  "editor.renderWhitespace": "all",
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  }
+}
