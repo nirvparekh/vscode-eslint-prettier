@@ -1,6 +1,15 @@
 {
+  "editor.autoIndent": "brackets",
   "editor.renderWhitespace": "all",
   "eslint.codeAction.showDocumentation": {
     "enable": true
+  },
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "search.showLineNumbers": true,
+  "prettier.semi": false,
+  "workbench.colorCustomizations": {
+    "editor.findMatchBackground": "#fa000c71",
+    "editor.findMatchHighlightBackground": "#ffffff2d",
   }
 }
